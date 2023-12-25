@@ -4,7 +4,7 @@ import './index.css';
 const HelloPage = () => (
   <>
     <Hello />
-    <p>Hello text is not red or blue</p>
+    <p className="blue">Hello text is not red or blue</p>
   </>
 );
 
